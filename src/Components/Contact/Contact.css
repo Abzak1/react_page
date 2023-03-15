@@ -1,0 +1,61 @@
+
+
+  .subSection {
+    
+    display: inline-block;
+    width: 33%;
+    
+  }
+  
+
+  
+ 
+  .contactContainer {
+    
+   
+    
+  
+  }
+  
+  
+      
+  
+  h1 {
+    font-weight: 900;
+    font-size: 3.25em;
+   
+    line-height: 1.2;
+    color: rgba(0, 255, 235, 1);
+  }
+ 
+  
+  
+  .paragraphContainer {
+    padding-bottom: 10em;
+    width: 100%;
+    color: rgba(0, 255, 235, 1);
+    box-sizing: border-box;  
+    
+  }
+  
+  
+  .iconsContainer {
+   
+   margin-top:4rem;
+   margin-bottom: 9.9rem;
+  }
+  
+ 
+  
+  .icons {
+    margin-right: 10px;
+  }
+  
+  .iconContainer {
+    display: flex;
+    
+  }
+
+  .this {
+    margin-top: 10rem !important;
+  }

@@ -1,0 +1,34 @@
+header {
+  margin-bottom: 10rem; 
+   
+
+}
+.navbar-nav :hover {
+  
+  
+  cursor: pointer;
+
+}
+
+
+
+
+
+
+@media (max-width: 261px) {
+    .h4 {
+       font-size: 18px !important;
+    }
+    .h5 {
+        font-size: 16px !important;
+    }
+  }
+
+  @media (max-width: 236px) {
+    .h4 {
+       font-size: 14px !important;
+    }
+    .h5 {
+        font-size: 14px !important;
+    }
+  }
