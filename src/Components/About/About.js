@@ -10,11 +10,11 @@ const About = () => {
       <div className="row">
         <div className="col-lg-6 mb-4 order-2 order-lg-1 ">
           <div className="card h-100">
-            <img className="card-img-top" src={img2} alt="ew" />
+            <img className="card-img-top" src={img2} alt="blue truck" />
 
             <div className="card-body">
               <h5 className="card-title text-decoration-underline text-primary">
-                Other Services
+                Other Servicess
               </h5>
 
               <p className="card-text">
